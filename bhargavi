@@ -1,0 +1,38 @@
+[
+    {
+        "name": "ChainLink",
+        "url": "https://chain.link/",
+        "category": "Oracles",
+        "description": "Securely connect smart contracts to external data and APIs."
+    },
+    {
+        "name": "Uniswap",
+        "url": "https://uniswap.org/",
+        "category": "DEX",
+        "description": "A decentralized protocol for automated liquidity provision on Ethereum."
+    },
+    {
+        "name": "Aave",
+        "url": "https://aave.com/",
+        "category": "Lending",
+        "description": "Open source and non-custodial liquidity protocol for earning interest on deposits and borrowing assets."
+    },
+    {
+        "name": "SushiSwap",
+        "url": "https://sushi.com/",
+        "category": "DEX",
+        "description": "An automated market-making (AMM) decentralized exchange (DEX) currently on the Ethereum blockchain."
+    },
+    {
+        "name": "Balancer",
+        "url": "https://balancer.finance/",
+        "category": "DEX",
+        "description": "An automated portfolio manager and liquidity provider on Ethereum."
+    },
+    {
+        "name": "Polygon",
+        "url": "https://polygon.technology/",
+        "category": "Layer 2",
+        "description": "A protocol and a framework for building and connecting Ethereum-compatible blockchain networks."
+    }
+]
